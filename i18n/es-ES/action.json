@@ -1,57 +1,61 @@
 {
-    "NO_ACTIONS": "You can't do anything for the moment.",
-    "REMOVE_THING_KAKYOIN": {
-        "BASE": "You tried to remove the thing...",
-        "FAILED": "And you failed. Your only choice now is to bring kakyoin to the hospital.",
-        "SUCCESS": "And you succeeded."
-    },
-    "BRING_KAKYOIN_HOSPITAL": {
-        "SUCCESS": "👨‍⚕️ **Male Nurse:** Kakyoin was taken back to the hospital and his costs were paid. He'll get back to you when he's better.",
-        "DESCRIPTION": "Bring Kakyoin to the hospital",
-        "MONEY": "👨‍⚕️ **Male Nurse:** It is the hospital that does not care about charity... WHERE'S YOUR MONEY ???"
-    },
-    "ANALYSE_HAIR": {
-        "SUCCESS": "📧 These hairs have been sent to the SPEEDWAGON FOUNDATION.",
-        "DESCRIPTION": "Send the hairs to the Speedwagon Foundation."
-    },
-    "GO_TO_AIRPORT": {
-        "BASE": "{{npc.taxi_driver}} Hello sir, it'll cost you **{{slowPrice}}** {{emojis.jocoins}}. The journey will take 2 hours. If you want, I can go four times faster for triple the price. What is your choice?",
-        "MONEY": "{{npc.taxi_driver}} You fool, you don't have enough money. You can't go anywhere.",
-        "SLOW": "{{npc.taxi_driver}} You're going to the airport. You'll be there in 2 hours. You can come back anytime you want. Thank you for your business.",
-        "FAST": "{{npc.taxi_driver}} Alright, I'll get you to the Morioh Airport in only **30 minutes**. GET READY!",
-        "DESCRIPTION": "Go to the airport"
-    },
-    "TYGAD": {
-        "SUCCESS": "📧 You've successfully sent an e-mail about the current situation to your Grandfather. Now, wait for him to answer. Use the {{command.chapter}} to see how long it will take.",
-        "DESCRIPTION": "Tell to your grandfather about Dio"
-    },
-    "REMOVE_FLESHBUD": {
-        "DESCRIPTION": "Remove the fleshbud from Kakyoin."
-    },
-    "DRIVE_AIRPLANE_TO_HONGKONG": {
-        "TITLE": "Drive the airplane",
-        "DESCRIPTION": "Drive the airplane immediately to Hong Kong"
-    },
-    "DRIVE_BOAT_RESCUE": {
-        "TITLE": "Drive the boat",
-        "DESCRIPTION": "Drive the boat to the nearest rescue boat"
-    },
-    "REMOVE_FLESHBUD_POLNAREFF": {
-        "TITLE": "Remove the fleshbud",
-        "DESCRIPTION": "Remove the fleshbud from Polnareff"
-    },
-    "DRIVE_BOAT_SINGAPORE": {
-        "TITLE": "Drive the boat",
-        "DESCRIPTION": "Drive the boat to Singapore"
-    },
-    "THROW_RUBBER_SOUL_BODY_OCEAN": {
-        "TITLE": "Throw Rubber Soul's body",
-        "DESCRIPTION": "Throw Rubber Soul's body in the ocean"
-    },
-    "GET_TRAM_GO_INDIA": {
-        "TITLE": "Get in the tram",
-        "DESCRIPTION": "Get in the tram to go to India",
-        "SUCCESS": "You're now in the tram to India. You'll be there in 2-3 hours (-**10,000** {{emojis.jocoins}}).",
-        "NO_COINS": "You don't have enough {{emojis.jocoins}} to get in the tram. You need **10,000** {{emojis.jocoins}} to get in."
-    }
+  "NO_ACTIONS": "You can't do anything for the moment.",
+  "REMOVE_THING_KAKYOIN": {
+    "BASE": "You tried to remove the thing...",
+    "FAILED": "And you failed. Your only choice now is to bring kakyoin to the hospital.",
+    "SUCCESS": "And you succeeded."
+  },
+  "BRING_KAKYOIN_HOSPITAL": {
+    "SUCCESS": "👨‍⚕️ **Male Nurse:** Kakyoin was taken back to the hospital and his costs were paid. He'll get back to you when he's better.",
+    "DESCRIPTION": "Bring Kakyoin to the hospital",
+    "MONEY": "👨‍⚕️ **Male Nurse:** It is the hospital that does not care about charity... WHERE'S YOUR MONEY ???"
+  },
+  "ANALYSE_HAIR": {
+    "SUCCESS": "📧 These hairs have been sent to the SPEEDWAGON FOUNDATION.",
+    "DESCRIPTION": "Send the hairs to the Speedwagon Foundation."
+  },
+  "GO_TO_AIRPORT": {
+    "BASE": "{{npc.taxi_driver}} Hello sir, it'll cost you **{{slowPrice}}** {{emojis.jocoins}}. The journey will take 2 hours. If you want, I can go four times faster for triple the price. What is your choice?",
+    "MONEY": "{{npc.taxi_driver}} You fool, you don't have enough money. You can't go anywhere.",
+    "SLOW": "{{npc.taxi_driver}} You're going to the airport. You'll be there in 2 hours. You can come back anytime you want. Thank you for your business.",
+    "FAST": "{{npc.taxi_driver}} Alright, I'll get you to the Morioh Airport in only **30 minutes**. GET READY!",
+    "DESCRIPTION": "Go to the airport"
+  },
+  "TYGAD": {
+    "SUCCESS": "📧 You've successfully sent an e-mail about the current situation to your Grandfather. Now, wait for him to answer. Use the {{command.chapter}} to see how long it will take.",
+    "DESCRIPTION": "Tell to your grandfather about Dio"
+  },
+  "REMOVE_FLESHBUD": {
+    "DESCRIPTION": "Remove the fleshbud from Kakyoin."
+  },
+  "DRIVE_AIRPLANE_TO_HONGKONG": {
+    "TITLE": "Drive the airplane",
+    "DESCRIPTION": "Drive the airplane immediately to Hong Kong"
+  },
+  "DRIVE_BOAT_RESCUE": {
+    "TITLE": "Drive the boat",
+    "DESCRIPTION": "Drive the boat to the nearest rescue boat"
+  },
+  "REMOVE_FLESHBUD_POLNAREFF": {
+    "TITLE": "Remove the fleshbud",
+    "DESCRIPTION": "Remove the fleshbud from Polnareff"
+  },
+  "DRIVE_BOAT_SINGAPORE": {
+    "TITLE": "Drive the boat",
+    "DESCRIPTION": "Drive the boat to Singapore"
+  },
+  "THROW_RUBBER_SOUL_BODY_OCEAN": {
+    "TITLE": "Throw Rubber Soul's body",
+    "DESCRIPTION": "Throw Rubber Soul's body in the ocean"
+  },
+  "GET_TRAM_GO_INDIA": {
+    "TITLE": "Get in the tram",
+    "DESCRIPTION": "Get in the tram to go to India",
+    "SUCCESS": "You're now in the tram to India. You'll be there in 2-3 hours (-**10,000** {{emojis.jocoins}}).",
+    "NO_COINS": "You don't have enough {{emojis.jocoins}} to get in the tram. You need **10,000** {{emojis.jocoins}} to get in."
+  },
+  "DRIVE_TO_PAKISTAN": {
+    "TITLE": "Drive to Pakistan",
+    "DESCRIPTION": "Drive to Pakistan"
+  }
 }
